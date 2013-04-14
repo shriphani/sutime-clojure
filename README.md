@@ -14,6 +14,6 @@ Returns:
 
 ## License
 
-Copyright © 2013 FIXME
+Copyright © 2013 Shriphani Palakodety, CMU
 
-Distributed under the Eclipse Public License, the same as Clojure.
+Distributed under the MIT License.
